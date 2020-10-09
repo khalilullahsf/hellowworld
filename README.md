@@ -1,2 +1,1 @@
-# hellowworld
-First example
+print("hello world Python")
